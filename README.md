@@ -1,1 +1,0 @@
-# oguuk.github.io
