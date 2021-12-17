@@ -17,7 +17,7 @@ menu:
   - title: Contact
     url: /contact
   - title: stock
-    url: /feed.xml
+    url: /stock
 email: ogw135@gmail.com
 # See: https://disqus.com/
 disqus_username: https-oguuk-github-io
