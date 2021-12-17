@@ -6,17 +6,17 @@ tags:
   - template
   - jekyll
   - theme
-  - netlify
+  - github
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
+  - title: Feed
+    url: /stock
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 email: ogw135@gmail.com
 # See: https://disqus.com/
 disqus_username: https-oguuk-github-io
