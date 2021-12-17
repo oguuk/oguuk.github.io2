@@ -12,13 +12,13 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: /
+    url: https://oguuk.github.io/
   - title: History
-    url: /history
+    url: https://oguuk.github.io/history
   - title: Contact
-    url: /contact
+    url: https://oguuk.github.io/contact
   - title: stock
-    url: /feed.xml
+    url: https://oguuk.github.io/feed.xml
 email: ogw135@gmail.com
 # See: https://disqus.com/
 disqus_username: https-oguuk-github-io
