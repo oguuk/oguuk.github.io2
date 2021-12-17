@@ -5,9 +5,9 @@ title: Gou's world
 subtitle: 'ios개발'
 description: >-
 image: >-
-  https://storage.googleapis.com/oguuk/apple.gif
+  https://storage.googleapis.com/oguuk/IMG_6275.JPG
 optimized_image: >-
-  https://storage.googleapis.com/oguuk/apple.gif
+  https://storage.googleapis.com/oguuk/IMG_6275.JPG
 category: blog
 tags:
   - welcome
