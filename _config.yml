@@ -11,7 +11,7 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url:
+    url: /
   - title: History
     url: /history
   - title: Contact
