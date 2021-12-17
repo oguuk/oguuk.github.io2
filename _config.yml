@@ -43,7 +43,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/oguuk" # the subpath of your site, e.g. /blog
+baseurl: "https://oguuk.github.io/" # the subpath of your site, e.g. /blog
 url: "/oguuk" # the base hostname & protocol for your site
 google_analytics: "UA-215544291-1"
 language: "en"
