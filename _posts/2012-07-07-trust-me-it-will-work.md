@@ -4,8 +4,8 @@ layout: post
 title: Trust me, it will work
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://storage.cloud.google.com/oguuk/workout.jpg
-optimized_image: https://storage.cloud.google.com/oguuk/workout.jpg
+image: https://storage.googleapis.com/oguuk/workout.jpg
+optimized_image: https://storage.googleapis.com/oguuk/workout.jpg
 category: workout
 tags:
   - diet

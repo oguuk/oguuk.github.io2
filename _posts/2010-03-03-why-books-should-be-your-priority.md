@@ -4,8 +4,8 @@ layout: post
 title: Welcome to Gou's github
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: 
-image: https://storage.cloud.google.com/oguuk/guccigou.jpg
-optimized_image: https://storage.cloud.google.com/oguuk/guccigou.jpg
+image: https://storage.googleapis.com/oguuk/guccigou.jpg
+optimized_image: https://storage.googleapis.com/oguuk/guccigou.jpg
 category: About
 tags:
   - coding

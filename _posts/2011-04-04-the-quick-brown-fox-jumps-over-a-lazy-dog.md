@@ -4,8 +4,8 @@ layout: post
 title: Team project records
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: 
-image: https://storage.cloud.google.com/oguuk/notion.jpg
-optimized_image: https://storage.cloud.google.com/oguuk/notion.jpg
+image: https://storage.googleapis.com/oguuk/notion.jpg
+optimized_image: https://storage.googleapis.com/oguuk/notion.jpg
 category: notion
 tags:
   - team project
