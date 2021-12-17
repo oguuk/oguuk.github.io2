@@ -4,8 +4,8 @@ layout: post
 title: CS & Study
 subtitle: I write down what I have studied
 description: I write down what I have studied
-image: https://storage.cloud.google.com/oguuk/velog.png
-optimized_image: https://storage.cloud.google.com/oguuk/velog.png
+image: https://storage.cloud.google.com/oguuk/velog.jpg
+optimized_image: https://storage.cloud.google.com/oguuk/velog.jpg
 category: Velog
 tags:
   - coding

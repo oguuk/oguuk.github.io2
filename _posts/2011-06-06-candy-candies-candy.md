@@ -4,8 +4,8 @@ layout: post
 title: Toy projects
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://storage.cloud.google.com/oguuk/coding.png
-optimized_image: https://storage.cloud.google.com/oguuk/coding.png
+image: https://storage.cloud.google.com/oguuk/coding.jpg
+optimized_image: https://storage.cloud.google.com/oguuk/coding.jpg
 category: projects
 tags:
   - food
