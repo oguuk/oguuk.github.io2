@@ -12,7 +12,7 @@ tags:
   - stock
   - economy
   - blockchain
-author: thiagorossener
+author: oguuk
 ---
 
 공사중... 

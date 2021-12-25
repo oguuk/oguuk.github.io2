@@ -13,7 +13,7 @@ tags:
   - languages
   - cs
   - etc
-author: thiagorossener
+author: oguuk
 ---
 
 공사중... 

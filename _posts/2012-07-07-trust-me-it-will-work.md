@@ -10,7 +10,7 @@ category: workout
 tags:
   - diet
   - food
-author: thiagorossener
+author: oguuk
 ---
 
 공사중... 

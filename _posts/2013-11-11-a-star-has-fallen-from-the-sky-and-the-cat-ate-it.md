@@ -10,7 +10,7 @@ category: music
 tags:
   - crazy
   - story
-author: thiagorossener
+author: oguuk
 ---
 
 공사중... 

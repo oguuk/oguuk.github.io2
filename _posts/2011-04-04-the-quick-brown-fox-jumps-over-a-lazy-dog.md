@@ -12,7 +12,7 @@ tags:
   - haneum
   - iOS
   - app
-author: thiagorossener
+author: oguuk
 ---
 
 공사중... 

@@ -10,7 +10,7 @@ category: projects
 tags:
   - food
   - tips
-author: thiagorossener
+author: oguuk
 ---
 
 공사중... 

@@ -10,7 +10,7 @@ category: css
 tags:
   - css
   - frontend
-author: thiagorossener
+author: oguuk
 ---
 
 공사중... 
